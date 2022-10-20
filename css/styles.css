@@ -1,0 +1,118 @@
+h1Style {
+  background-color: blue;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 5px;
+  color: white;
+  font-style: italic;
+}
+.h2Style {
+  background-color: lightskyblue;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.h22Style {
+  border: 2px solid black;
+  border-radius: 4px;
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.firstpStyle {
+  background-color: lightskyblue;
+  border: 2px solid black;
+  padding: 5px;
+  color: #ffffff;
+}
+
+.override {
+  background-color: lightskyblue;
+  border: 2px solid black;
+  padding: 5px;
+  color: green;
+}
+
+.divStyle {
+  margin-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.secondpStyle {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.thirdpStyle {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.blockquote1Style {
+  font-size: xx-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: blue;
+  background-color: violet;
+}
+.aLink {
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fourthpStyle {
+  font-size: x-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+  background-color: aqua;
+}
+.spanStyle {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+.fuzzybubblesfont {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+
+.alkalamifont {
+  font-family: "Alkalami", serif;
+}
+
+.comforterbrushfont {
+  font-family: "Comforter Brush", cursive;
+}
+
+.dancingscriptfont {
+  font-family: "Dancing Script", cursive;
+}
+
+.indieflowerfont {
+  font-family: "Indie Flower", cursive;
+}
+
+.inspirationfont {
+  font-family: "Inspiration", cursive;
+}
+
+.josefinsansfont {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.lobsterfont {
+  font-family: "Lobster", cursive;
+}
+
+.oswaldfont {
+  font-family: "Oswald", sans-serif;
+}
+
+.pacificofont {
+  font-family: "Pacifico", cursive;
+}
+
+.permanentmarkerfont {
+  font-family: "Permanent Marker", cursive;
+}
+
+.robotofont {
+  font-family: "Roboto", sans-serif;
+}
+
+.satisfyfont {
+  font-family: "Satisfy", cursive;
+}
