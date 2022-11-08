@@ -115,3 +115,7 @@
 .satisfyfont {
   font-family: "Satisfy", cursive;
 }
+
+.centeredtext {
+  text-align: center;
+}
